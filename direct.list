@@ -8,7 +8,11 @@ DOMAIN-SUFFIX,qssq.net
 DOMAIN-SUFFIX,nbym.net
 DOMAIN-SUFFIX,digimon.ink
 
-# 三方
+# 三方 DOMAIN-SUFFIX
 DOMAIN-SUFFIX,wetest.vip
 DOMAIN-SUFFIX,stripe.com
 DOMAIN-SUFFIX,spartanhost.net
+
+# 三方 DOMAIN
+
+DOMAIN,at.alicdn.com
